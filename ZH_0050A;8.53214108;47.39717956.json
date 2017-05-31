@@ -1,0 +1,3565 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-05-31T09:53:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 42692976,
+      "nodes": [
+        533911976,
+        533912006,
+        533911995,
+        533911977,
+        533911976
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "16",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42692977,
+      "nodes": [
+        533911979,
+        533911997,
+        533911981,
+        3634546944,
+        533911982,
+        533911979
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "41",
+        "addr:postcode": "8037",
+        "addr:street": "Bucheggstrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42692988,
+      "nodes": [
+        533911983,
+        533911985,
+        533911986,
+        533911978,
+        533911983
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "43",
+        "addr:postcode": "8037",
+        "addr:street": "Bucheggstrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42692995,
+      "nodes": [
+        533912027,
+        4332724594,
+        533912058,
+        533912060,
+        4332724590,
+        4332724591,
+        533912029,
+        533912027
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "4",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "building:levels": "4",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42692996,
+      "nodes": [
+        1493012026,
+        4332724600,
+        4332724601,
+        4332724603,
+        4332724602,
+        533912042,
+        533912031,
+        1493012028,
+        1493012026
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "5",
+        "addr:postcode": "8037",
+        "addr:street": "Im Waidegg",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42692997,
+      "nodes": [
+        1493012025,
+        533911994,
+        533912001,
+        1493012027,
+        1493012025
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "9",
+        "addr:postcode": "8037",
+        "addr:street": "Im Waidegg",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42692998,
+      "nodes": [
+        533912007,
+        533912010,
+        533912011,
+        533912012,
+        533912007
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42692999,
+      "nodes": [
+        533911987,
+        1493012022,
+        1493012019,
+        533911990,
+        533911991,
+        1493012021,
+        533911987
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "19",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42693000,
+      "nodes": [
+        1493012023,
+        533912021,
+        533912045,
+        1493012024,
+        1493012023
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "9",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61404140,
+      "nodes": [
+        766697720,
+        766697721,
+        766697716,
+        766697717,
+        766697720
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "113",
+        "addr:postcode": "8057",
+        "addr:street": "Seminarstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61557273,
+      "nodes": [
+        767830371,
+        3259510429,
+        3259510434,
+        767830376,
+        767830371
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "40",
+        "addr:postcode": "8037",
+        "addr:street": "Bucheggstrasse",
+        "building": "yes",
+        "building:levels": "3",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61677004,
+      "nodes": [
+        768752379,
+        3259593992,
+        3259593991,
+        768752378,
+        768752379
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "108",
+        "addr:postcode": "8057",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61677005,
+      "nodes": [
+        768752385,
+        768752387,
+        768752388,
+        768752389,
+        768752385
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "121",
+        "addr:postcode": "8037",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90255466,
+      "nodes": [
+        1046426705,
+        1046426659,
+        1046426623,
+        3259510427,
+        3259510426,
+        1046426575,
+        1046426705
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "117",
+        "addr:postcode": "8037",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90255473,
+      "nodes": [
+        1046426652,
+        1046426609,
+        1046426793,
+        1046426684,
+        1046426605,
+        1046426790,
+        1046426652
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "104",
+        "addr:postcode": "8057",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90255474,
+      "nodes": [
+        1046426766,
+        1046426639,
+        1046426682,
+        1046426730,
+        1046426766
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "119",
+        "addr:postcode": "8037",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90268395,
+      "nodes": [
+        3259593987,
+        1046650111,
+        1046650299,
+        1046650316,
+        1046650280,
+        3259593988,
+        3259593987
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "110",
+        "addr:postcode": "8057",
+        "addr:street": "Seminarstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90426375,
+      "nodes": [
+        1049025662,
+        3259480234,
+        3259480243,
+        1049025688,
+        1049025662
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "5",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104060767,
+      "nodes": [
+        1200958752,
+        1200958692,
+        1200959009,
+        1200958985,
+        1200958752
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:housenumber": "1",
+        "addr:postcode": "8057",
+        "addr:street": "Bucheggplatz",
+        "building": "service",
+        "building:levels": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136053315,
+      "nodes": [
+        1493012022,
+        533912020,
+        533911989,
+        1493012019,
+        1493012022
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "17",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136053316,
+      "nodes": [
+        533912017,
+        533912018,
+        533911987,
+        1493012021,
+        1493012020,
+        533912017
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "21",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136053317,
+      "nodes": [
+        1493012020,
+        533911992,
+        533911998,
+        533912015,
+        533912017,
+        1493012020
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "23",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136053318,
+      "nodes": [
+        1493012028,
+        533912033,
+        533912035,
+        4332724598,
+        4332724599,
+        1493012026,
+        1493012028
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "8037",
+        "addr:street": "Im Waidegg",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136053319,
+      "nodes": [
+        1493012027,
+        4332724604,
+        533912044,
+        4332724608,
+        533912014,
+        1493012025,
+        1493012027
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "8037",
+        "addr:street": "Im Waidegg",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136053320,
+      "nodes": [
+        1493012024,
+        533912047,
+        533912023,
+        1493012023,
+        1493012024
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "8037",
+        "addr:street": "Tièchestrasse",
+        "building": "yes",
+        "source": "bing",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 237795540,
+      "nodes": [
+        2456672486,
+        2456672488,
+        2456672492,
+        2456672489,
+        2456672491,
+        2456672486
+      ],
+      "tags": {
+        "building": "roof",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319525095,
+      "nodes": [
+        3259480240,
+        1049025785,
+        1049025747,
+        3259480250,
+        3259480240
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "11",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319525096,
+      "nodes": [
+        3259480256,
+        3259480255,
+        3259480249,
+        3259480268,
+        3259480276,
+        3259480256
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "15",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319525097,
+      "nodes": [
+        3259480274,
+        3259480256,
+        3259480276,
+        3259480289,
+        3259480274
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "17",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319525110,
+      "nodes": [
+        3259480234,
+        3259480238,
+        3259480245,
+        3259480243,
+        3259480234
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319525111,
+      "nodes": [
+        3259480238,
+        3259480240,
+        3259480250,
+        3259480245,
+        3259480238
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "9",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526681,
+      "nodes": [
+        3259510398,
+        3259510392,
+        3259510393,
+        3259510395,
+        3259510394,
+        3259510405,
+        3259510406,
+        3259510414,
+        3259510410,
+        3259510411,
+        3259510418,
+        3259510419,
+        3259510415,
+        3259510408,
+        3259510407,
+        3259510398
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "10",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526682,
+      "nodes": [
+        3259510385,
+        3259510384,
+        3259510390,
+        3259510391,
+        3259510387,
+        3259510388,
+        3259510385
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "105",
+        "addr:postcode": "8037",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526683,
+      "nodes": [
+        3259510403,
+        3259510402,
+        3259510401,
+        3259510399,
+        3259510400,
+        3259510398,
+        3259510407,
+        3259510408,
+        3259510415,
+        3259510422,
+        3259510403
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "12",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526685,
+      "nodes": [
+        3259513768,
+        3259510451,
+        3259510450,
+        3259510441,
+        3259510443,
+        3259510440,
+        3259510439,
+        3259510436,
+        3259510431,
+        3259510437,
+        3259510438,
+        3259510446,
+        3259513770,
+        3259513772,
+        3259513790,
+        3259513793,
+        3259513801,
+        3259513802,
+        3259513795,
+        3259513794,
+        3259513781,
+        3259513782,
+        3259513769,
+        3259513771,
+        3259513768
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "125",
+        "addr:postcode": "8037",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526686,
+      "nodes": [
+        3259513802,
+        3259513807,
+        3259513809,
+        3259513808,
+        3259513804,
+        3259513806,
+        3259513803,
+        3259513805,
+        3259513797,
+        3259513796,
+        3259513791,
+        3259513786,
+        3259513774,
+        3259513768,
+        3259513771,
+        3259513769,
+        3259513782,
+        3259513781,
+        3259513794,
+        3259513795,
+        3259513802
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "127",
+        "addr:postcode": "8037",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "building:levels": "6",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526687,
+      "nodes": [
+        3259510409,
+        3259510403,
+        3259510422,
+        3259510423,
+        3259510409
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526689,
+      "nodes": [
+        3259510428,
+        3259510425,
+        3259510421,
+        3259510420,
+        3259510417,
+        3259510412,
+        3259510413,
+        3259510416,
+        3259510409,
+        3259510423,
+        3259510424,
+        3259510428
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "16",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526690,
+      "nodes": [
+        3259510429,
+        767830373,
+        767830375,
+        3259510434,
+        3259510429
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "38",
+        "addr:postcode": "8037",
+        "addr:street": "Bucheggstrasse",
+        "building": "yes",
+        "building:levels": "3",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526691,
+      "nodes": [
+        3259510453,
+        3259510430,
+        3259510432,
+        3259510433,
+        3259510435,
+        3259510442,
+        3259510444,
+        3259513765,
+        3259513761,
+        3259510454,
+        3259510452,
+        3259510460,
+        3259510456,
+        3259510447,
+        3259510445,
+        3259510458,
+        3259510453
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "46",
+        "addr:postcode": "8037",
+        "addr:street": "Bucheggstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526693,
+      "nodes": [
+        3259513776,
+        3259510448,
+        3259510449,
+        3259510455,
+        3259513762,
+        3259510457,
+        3259510459,
+        3259513763,
+        3259513764,
+        3259510453,
+        3259510458,
+        3259513792,
+        3259513789,
+        3259513787,
+        3259513785,
+        3259513788,
+        3259513783,
+        3259513778,
+        3259513776
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "48",
+        "addr:postcode": "8037",
+        "addr:street": "Bucheggstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526696,
+      "nodes": [
+        3259513797,
+        3259513799,
+        3259513798,
+        3259513800,
+        3259513783,
+        3259513778,
+        3259513776,
+        3259513784,
+        3259513780,
+        3259513777,
+        3259513775,
+        3259513779,
+        3259513773,
+        3259513767,
+        3259513766,
+        3259513791,
+        3259513796,
+        3259513797
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "50",
+        "addr:postcode": "8037",
+        "addr:street": "Bucheggstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319526698,
+      "nodes": [
+        3259510388,
+        3259510389,
+        3259510386,
+        3259510385,
+        3259510388
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "6",
+        "addr:postcode": "8037",
+        "addr:street": "Wibichstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319537173,
+      "nodes": [
+        3259593992,
+        768752376,
+        768752377,
+        3259593991,
+        3259593992
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "106",
+        "addr:postcode": "8057",
+        "addr:street": "Rötelstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319537175,
+      "nodes": [
+        766697720,
+        766697717,
+        766697718,
+        766697719,
+        766697720
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "111",
+        "addr:postcode": "8057",
+        "addr:street": "Seminarstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 319537176,
+      "nodes": [
+        3259593987,
+        3259593988,
+        1046650212,
+        1046650353,
+        1046650278,
+        1046650217,
+        3259593987
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:country": "CH",
+        "addr:housenumber": "112",
+        "addr:postcode": "8057",
+        "addr:street": "Seminarstrasse",
+        "building": "yes",
+        "source": "Stadt Zürich Open Government Data; Geomatik + Vermessung; Tiefbau- und Entsorgungsdepartement"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358548499,
+      "nodes": [
+        3634546942,
+        3634546943,
+        3634546944,
+        3634546945,
+        3634546942
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:housenumber": "41a",
+        "addr:postcode": "8037",
+        "addr:street": "Bucheggstrasse",
+        "building": "residential",
+        "building:levels": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 369454909,
+      "nodes": [
+        3732456925,
+        3732456926,
+        3732456927,
+        3732456928,
+        3732456929,
+        3732456930,
+        3732456931,
+        3732456932,
+        3732456925
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:housenumber": "109",
+        "addr:postcode": "8037",
+        "addr:street": "Rötelstrasse",
+        "building": "residential",
+        "building:levels": "3"
+      }
+    },
+    {
+      "type": "way",
+      "id": 406771249,
+      "nodes": [
+        4088079985,
+        4088079986,
+        4088079987,
+        4088079988,
+        4088083089,
+        4088079985
+      ],
+      "tags": {
+        "building": "roof",
+        "layer": "1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435352217,
+      "nodes": [
+        533912058,
+        4332724597,
+        4332724588,
+        4332724589,
+        4332724593,
+        4332724592,
+        533912060,
+        533912058
+      ],
+      "tags": {
+        "addr:city": "Zürich",
+        "addr:housenumber": "135",
+        "addr:postcode": "8037",
+        "addr:street": "Rötelstrasse",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435352218,
+      "nodes": [
+        4332724594,
+        4332724595,
+        4332724596,
+        4332724597,
+        533912058,
+        4332724594
+      ],
+      "tags": {
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435352219,
+      "nodes": [
+        4332724604,
+        4332724605,
+        4332724606,
+        4332724607,
+        4332724608,
+        533912044,
+        4332724604
+      ],
+      "tags": {
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221039,
+      "nodes": [
+        4618677425,
+        4618677426,
+        4618677441,
+        4618677442,
+        4618677443,
+        4618677427,
+        4618677428,
+        4618677429,
+        4618677430,
+        4618677431,
+        4618677432,
+        4618677425
+      ],
+      "tags": {
+        "addr:housenumber": "60",
+        "addr:street": "Bucheggstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221040,
+      "nodes": [
+        4618677426,
+        4618677433,
+        4618677434,
+        4618677435,
+        4618677436,
+        4618677437,
+        4618677438,
+        4618677439,
+        4618677440,
+        4618677427,
+        4618677443,
+        4618677442,
+        4618677441,
+        4618677426
+      ],
+      "tags": {
+        "addr:housenumber": "64",
+        "addr:street": "Bucheggstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221041,
+      "nodes": [
+        4618677434,
+        4618677444,
+        4618677445,
+        4618677446,
+        4618677447,
+        4618677448,
+        4618677449,
+        4618677450,
+        4618677437,
+        4618677436,
+        4618677435,
+        4618677434
+      ],
+      "tags": {
+        "addr:housenumber": "97",
+        "addr:street": "Hofwiesenstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221042,
+      "nodes": [
+        4618677451,
+        4618677452,
+        4618677453,
+        4618677454,
+        4618677455,
+        4618677456,
+        4618677457,
+        4618677458,
+        4618677459,
+        4618677460,
+        4618677461,
+        4618677462,
+        4618677451
+      ],
+      "tags": {
+        "addr:housenumber": "95",
+        "addr:street": "Hofwiesenstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221043,
+      "nodes": [
+        4618677453,
+        4618677463,
+        4618677464,
+        4618677465,
+        4618677466,
+        4618677467,
+        4618677468,
+        4618677469,
+        4618677470,
+        4618677471,
+        4618677457,
+        4618677456,
+        4618677455,
+        4618677454,
+        4618677453
+      ],
+      "tags": {
+        "addr:housenumber": "93",
+        "addr:street": "Hofwiesenstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221044,
+      "nodes": [
+        4618677464,
+        4618677472,
+        4618677473,
+        4618677474,
+        4618677475,
+        4618677476,
+        4618677477,
+        4618677478,
+        4618677467,
+        4618677466,
+        4618677465,
+        4618677464
+      ],
+      "tags": {
+        "addr:housenumber": "115",
+        "addr:street": "Seminarstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221045,
+      "nodes": [
+        4618677479,
+        4618677480,
+        4618677481,
+        4618677482,
+        4618677483,
+        4618677484,
+        4618677485,
+        4618678396,
+        4618678397,
+        4618677486,
+        4618677479
+      ],
+      "tags": {
+        "addr:housenumber": "122",
+        "addr:street": "Rötelstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221046,
+      "nodes": [
+        4618677486,
+        4618677487,
+        4618677488,
+        4618678389,
+        4618678390,
+        4618678391,
+        4618678392,
+        4618678393,
+        4618678394,
+        4618678395,
+        4618677485,
+        4618678396,
+        4618678397,
+        4618677486
+      ],
+      "tags": {
+        "addr:housenumber": "124",
+        "addr:street": "Rötelstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 467221047,
+      "nodes": [
+        4618677488,
+        4618678398,
+        4618678399,
+        4618678400,
+        4618678401,
+        4618678402,
+        4618678403,
+        4618678391,
+        4618678390,
+        4618678389,
+        4618677488
+      ],
+      "tags": {
+        "addr:housenumber": "126",
+        "addr:street": "Rötelstrasse",
+        "building": "construction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533911976,
+      "lat": 47.3981832,
+      "lon": 8.5307205
+    },
+    {
+      "type": "node",
+      "id": 533911977,
+      "lat": 47.3980815,
+      "lon": 8.530754
+    },
+    {
+      "type": "node",
+      "id": 533911978,
+      "lat": 47.3974009,
+      "lon": 8.5311927
+    },
+    {
+      "type": "node",
+      "id": 533911979,
+      "lat": 47.3977469,
+      "lon": 8.5309094
+    },
+    {
+      "type": "node",
+      "id": 533911981,
+      "lat": 47.3976661,
+      "lon": 8.5312554
+    },
+    {
+      "type": "node",
+      "id": 533911982,
+      "lat": 47.3976252,
+      "lon": 8.5309369
+    },
+    {
+      "type": "node",
+      "id": 533911983,
+      "lat": 47.3975141,
+      "lon": 8.531124
+    },
+    {
+      "type": "node",
+      "id": 533911985,
+      "lat": 47.3975535,
+      "lon": 8.5312658
+    },
+    {
+      "type": "node",
+      "id": 533911986,
+      "lat": 47.3974403,
+      "lon": 8.5313345
+    },
+    {
+      "type": "node",
+      "id": 533911987,
+      "lat": 47.3977548,
+      "lon": 8.5317527
+    },
+    {
+      "type": "node",
+      "id": 533911989,
+      "lat": 47.3977024,
+      "lon": 8.5320437
+    },
+    {
+      "type": "node",
+      "id": 533911990,
+      "lat": 47.3976724,
+      "lon": 8.5318179
+    },
+    {
+      "type": "node",
+      "id": 533911991,
+      "lat": 47.3977149,
+      "lon": 8.5318056
+    },
+    {
+      "type": "node",
+      "id": 533911992,
+      "lat": 47.3976781,
+      "lon": 8.531528
+    },
+    {
+      "type": "node",
+      "id": 533911994,
+      "lat": 47.3980626,
+      "lon": 8.5314208
+    },
+    {
+      "type": "node",
+      "id": 533911995,
+      "lat": 47.3981059,
+      "lon": 8.5309162
+    },
+    {
+      "type": "node",
+      "id": 533911997,
+      "lat": 47.3977882,
+      "lon": 8.5312185
+    },
+    {
+      "type": "node",
+      "id": 533911998,
+      "lat": 47.3977813,
+      "lon": 8.5314981
+    },
+    {
+      "type": "node",
+      "id": 533912001,
+      "lat": 47.3981497,
+      "lon": 8.5313973
+    },
+    {
+      "type": "node",
+      "id": 533912006,
+      "lat": 47.3982077,
+      "lon": 8.5308828
+    },
+    {
+      "type": "node",
+      "id": 533912007,
+      "lat": 47.3982178,
+      "lon": 8.5310368
+    },
+    {
+      "type": "node",
+      "id": 533912010,
+      "lat": 47.3982321,
+      "lon": 8.5311962
+    },
+    {
+      "type": "node",
+      "id": 533912011,
+      "lat": 47.3981429,
+      "lon": 8.5312137
+    },
+    {
+      "type": "node",
+      "id": 533912012,
+      "lat": 47.3981286,
+      "lon": 8.5310543
+    },
+    {
+      "type": "node",
+      "id": 533912014,
+      "lat": 47.3980962,
+      "lon": 8.5316643
+    },
+    {
+      "type": "node",
+      "id": 533912015,
+      "lat": 47.3977994,
+      "lon": 8.5316346
+    },
+    {
+      "type": "node",
+      "id": 533912017,
+      "lat": 47.3977679,
+      "lon": 8.5316437
+    },
+    {
+      "type": "node",
+      "id": 533912018,
+      "lat": 47.3977813,
+      "lon": 8.531745
+    },
+    {
+      "type": "node",
+      "id": 533912020,
+      "lat": 47.3977901,
+      "lon": 8.5320182
+    },
+    {
+      "type": "node",
+      "id": 533912021,
+      "lat": 47.3979608,
+      "lon": 8.5321316
+    },
+    {
+      "type": "node",
+      "id": 533912023,
+      "lat": 47.3977889,
+      "lon": 8.5321802
+    },
+    {
+      "type": "node",
+      "id": 533912027,
+      "lat": 47.3982257,
+      "lon": 8.5320925
+    },
+    {
+      "type": "node",
+      "id": 533912029,
+      "lat": 47.3981326,
+      "lon": 8.5321197
+    },
+    {
+      "type": "node",
+      "id": 533912031,
+      "lat": 47.3981998,
+      "lon": 8.5317536
+    },
+    {
+      "type": "node",
+      "id": 533912033,
+      "lat": 47.3982316,
+      "lon": 8.5319916
+    },
+    {
+      "type": "node",
+      "id": 533912035,
+      "lat": 47.3981308,
+      "lon": 8.5320227
+    },
+    {
+      "type": "node",
+      "id": 533912042,
+      "lat": 47.398107,
+      "lon": 8.5317806
+    },
+    {
+      "type": "node",
+      "id": 533912044,
+      "lat": 47.3981794,
+      "lon": 8.5316284
+    },
+    {
+      "type": "node",
+      "id": 533912045,
+      "lat": 47.3979803,
+      "lon": 8.5322839
+    },
+    {
+      "type": "node",
+      "id": 533912047,
+      "lat": 47.397809,
+      "lon": 8.5323319
+    },
+    {
+      "type": "node",
+      "id": 533912058,
+      "lat": 47.398237,
+      "lon": 8.5321871
+    },
+    {
+      "type": "node",
+      "id": 533912060,
+      "lat": 47.398138,
+      "lon": 8.5322162
+    },
+    {
+      "type": "node",
+      "id": 766697716,
+      "lat": 47.3963856,
+      "lon": 8.5333136
+    },
+    {
+      "type": "node",
+      "id": 766697717,
+      "lat": 47.3961963,
+      "lon": 8.5332493
+    },
+    {
+      "type": "node",
+      "id": 766697718,
+      "lat": 47.396009,
+      "lon": 8.5332813
+    },
+    {
+      "type": "node",
+      "id": 766697719,
+      "lat": 47.3959946,
+      "lon": 8.5331658
+    },
+    {
+      "type": "node",
+      "id": 766697720,
+      "lat": 47.3962029,
+      "lon": 8.5331339
+    },
+    {
+      "type": "node",
+      "id": 766697721,
+      "lat": 47.3963974,
+      "lon": 8.5332064
+    },
+    {
+      "type": "node",
+      "id": 767830371,
+      "lat": 47.3969282,
+      "lon": 8.5309593
+    },
+    {
+      "type": "node",
+      "id": 767830373,
+      "lat": 47.396817,
+      "lon": 8.5305486
+    },
+    {
+      "type": "node",
+      "id": 767830375,
+      "lat": 47.3969022,
+      "lon": 8.5304983
+    },
+    {
+      "type": "node",
+      "id": 767830376,
+      "lat": 47.3970134,
+      "lon": 8.5309089
+    },
+    {
+      "type": "node",
+      "id": 768752376,
+      "lat": 47.39626,
+      "lon": 8.532422
+    },
+    {
+      "type": "node",
+      "id": 768752377,
+      "lat": 47.3962292,
+      "lon": 8.532631
+    },
+    {
+      "type": "node",
+      "id": 768752378,
+      "lat": 47.3964802,
+      "lon": 8.5327115
+    },
+    {
+      "type": "node",
+      "id": 768752379,
+      "lat": 47.3965109,
+      "lon": 8.5325026
+    },
+    {
+      "type": "node",
+      "id": 768752385,
+      "lat": 47.3966895,
+      "lon": 8.5322751
+    },
+    {
+      "type": "node",
+      "id": 768752387,
+      "lat": 47.3967114,
+      "lon": 8.5321289
+    },
+    {
+      "type": "node",
+      "id": 768752388,
+      "lat": 47.3968559,
+      "lon": 8.5321761
+    },
+    {
+      "type": "node",
+      "id": 768752389,
+      "lat": 47.3968341,
+      "lon": 8.5323223
+    },
+    {
+      "type": "node",
+      "id": 1046426575,
+      "lat": 47.3967422,
+      "lon": 8.5320374
+    },
+    {
+      "type": "node",
+      "id": 1046426605,
+      "lat": 47.3961364,
+      "lon": 8.5327778
+    },
+    {
+      "type": "node",
+      "id": 1046426609,
+      "lat": 47.3960649,
+      "lon": 8.5329252
+    },
+    {
+      "type": "node",
+      "id": 1046426623,
+      "lat": 47.3968517,
+      "lon": 8.5320389
+    },
+    {
+      "type": "node",
+      "id": 1046426639,
+      "lat": 47.396781,
+      "lon": 8.5316805
+    },
+    {
+      "type": "node",
+      "id": 1046426652,
+      "lat": 47.3960076,
+      "lon": 8.5326894
+    },
+    {
+      "type": "node",
+      "id": 1046426659,
+      "lat": 47.3968684,
+      "lon": 8.531926
+    },
+    {
+      "type": "node",
+      "id": 1046426682,
+      "lat": 47.3968936,
+      "lon": 8.5317194
+    },
+    {
+      "type": "node",
+      "id": 1046426684,
+      "lat": 47.3962162,
+      "lon": 8.5327719
+    },
+    {
+      "type": "node",
+      "id": 1046426705,
+      "lat": 47.3967635,
+      "lon": 8.5318923
+    },
+    {
+      "type": "node",
+      "id": 1046426730,
+      "lat": 47.396876,
+      "lon": 8.5318306
+    },
+    {
+      "type": "node",
+      "id": 1046426766,
+      "lat": 47.3967634,
+      "lon": 8.5317917
+    },
+    {
+      "type": "node",
+      "id": 1046426790,
+      "lat": 47.3961025,
+      "lon": 8.5326364
+    },
+    {
+      "type": "node",
+      "id": 1046426793,
+      "lat": 47.3962146,
+      "lon": 8.5329175
+    },
+    {
+      "type": "node",
+      "id": 1046650111,
+      "lat": 47.3960628,
+      "lon": 8.533526
+    },
+    {
+      "type": "node",
+      "id": 1046650212,
+      "lat": 47.3962318,
+      "lon": 8.5336654
+    },
+    {
+      "type": "node",
+      "id": 1046650217,
+      "lat": 47.3962328,
+      "lon": 8.5335281
+    },
+    {
+      "type": "node",
+      "id": 1046650278,
+      "lat": 47.3963307,
+      "lon": 8.5335453
+    },
+    {
+      "type": "node",
+      "id": 1046650280,
+      "lat": 47.3960754,
+      "lon": 8.533661
+    },
+    {
+      "type": "node",
+      "id": 1046650299,
+      "lat": 47.3959781,
+      "lon": 8.5335439
+    },
+    {
+      "type": "node",
+      "id": 1046650316,
+      "lat": 47.3959947,
+      "lon": 8.5336757
+    },
+    {
+      "type": "node",
+      "id": 1046650353,
+      "lat": 47.3963111,
+      "lon": 8.5336805
+    },
+    {
+      "type": "node",
+      "id": 1049025662,
+      "lat": 47.3961439,
+      "lon": 8.5312856
+    },
+    {
+      "type": "node",
+      "id": 1049025688,
+      "lat": 47.3962117,
+      "lon": 8.5313507
+    },
+    {
+      "type": "node",
+      "id": 1049025747,
+      "lat": 47.3963168,
+      "lon": 8.531112
+    },
+    {
+      "type": "node",
+      "id": 1049025785,
+      "lat": 47.3962491,
+      "lon": 8.5310469
+    },
+    {
+      "type": "node",
+      "id": 1200958692,
+      "lat": 47.397979,
+      "lon": 8.5329104
+    },
+    {
+      "type": "node",
+      "id": 1200958752,
+      "lat": 47.3981069,
+      "lon": 8.5328622
+    },
+    {
+      "type": "node",
+      "id": 1200958985,
+      "lat": 47.3981412,
+      "lon": 8.5330607
+    },
+    {
+      "type": "node",
+      "id": 1200959009,
+      "lat": 47.3980133,
+      "lon": 8.5331089
+    },
+    {
+      "type": "node",
+      "id": 1493012019,
+      "lat": 47.3976874,
+      "lon": 8.5319307
+    },
+    {
+      "type": "node",
+      "id": 1493012020,
+      "lat": 47.3976962,
+      "lon": 8.5316645
+    },
+    {
+      "type": "node",
+      "id": 1493012021,
+      "lat": 47.3977097,
+      "lon": 8.5317658
+    },
+    {
+      "type": "node",
+      "id": 1493012022,
+      "lat": 47.3977751,
+      "lon": 8.5319053
+    },
+    {
+      "type": "node",
+      "id": 1493012023,
+      "lat": 47.397882,
+      "lon": 8.5321536
+    },
+    {
+      "type": "node",
+      "id": 1493012024,
+      "lat": 47.3979015,
+      "lon": 8.5323059
+    },
+    {
+      "type": "node",
+      "id": 1493012025,
+      "lat": 47.3980758,
+      "lon": 8.5315224
+    },
+    {
+      "type": "node",
+      "id": 1493012026,
+      "lat": 47.3981263,
+      "lon": 8.5318997
+    },
+    {
+      "type": "node",
+      "id": 1493012027,
+      "lat": 47.3981632,
+      "lon": 8.5314998
+    },
+    {
+      "type": "node",
+      "id": 1493012028,
+      "lat": 47.3982148,
+      "lon": 8.5318724
+    },
+    {
+      "type": "node",
+      "id": 2456672486,
+      "lat": 47.3978812,
+      "lon": 8.5333302
+    },
+    {
+      "type": "node",
+      "id": 2456672488,
+      "lat": 47.397881,
+      "lon": 8.5334349
+    },
+    {
+      "type": "node",
+      "id": 2456672489,
+      "lat": 47.3984512,
+      "lon": 8.5331577
+    },
+    {
+      "type": "node",
+      "id": 2456672491,
+      "lat": 47.3980345,
+      "lon": 8.5333088
+    },
+    {
+      "type": "node",
+      "id": 2456672492,
+      "lat": 47.3984621,
+      "lon": 8.5332197
+    },
+    {
+      "type": "node",
+      "id": 3259480234,
+      "lat": 47.3961702,
+      "lon": 8.5312259
+    },
+    {
+      "type": "node",
+      "id": 3259480238,
+      "lat": 47.3961965,
+      "lon": 8.5311662
+    },
+    {
+      "type": "node",
+      "id": 3259480240,
+      "lat": 47.3962228,
+      "lon": 8.5311065
+    },
+    {
+      "type": "node",
+      "id": 3259480243,
+      "lat": 47.396238,
+      "lon": 8.531291
+    },
+    {
+      "type": "node",
+      "id": 3259480245,
+      "lat": 47.3962642,
+      "lon": 8.5312313
+    },
+    {
+      "type": "node",
+      "id": 3259480249,
+      "lat": 47.39629,
+      "lon": 8.5308879
+    },
+    {
+      "type": "node",
+      "id": 3259480250,
+      "lat": 47.3962905,
+      "lon": 8.5311717
+    },
+    {
+      "type": "node",
+      "id": 3259480255,
+      "lat": 47.39633,
+      "lon": 8.5307978
+    },
+    {
+      "type": "node",
+      "id": 3259480256,
+      "lat": 47.3963377,
+      "lon": 8.5308052
+    },
+    {
+      "type": "node",
+      "id": 3259480268,
+      "lat": 47.3963766,
+      "lon": 8.5309718
+    },
+    {
+      "type": "node",
+      "id": 3259480274,
+      "lat": 47.3964068,
+      "lon": 8.5306515
+    },
+    {
+      "type": "node",
+      "id": 3259480276,
+      "lat": 47.3964166,
+      "lon": 8.5308816
+    },
+    {
+      "type": "node",
+      "id": 3259480289,
+      "lat": 47.3964857,
+      "lon": 8.5307289
+    },
+    {
+      "type": "node",
+      "id": 3259510384,
+      "lat": 47.3961267,
+      "lon": 8.5321097
+    },
+    {
+      "type": "node",
+      "id": 3259510385,
+      "lat": 47.396149,
+      "lon": 8.5319568
+    },
+    {
+      "type": "node",
+      "id": 3259510386,
+      "lat": 47.3961795,
+      "lon": 8.5317322
+    },
+    {
+      "type": "node",
+      "id": 3259510387,
+      "lat": 47.3962313,
+      "lon": 8.5320108
+    },
+    {
+      "type": "node",
+      "id": 3259510388,
+      "lat": 47.3962352,
+      "lon": 8.5319841
+    },
+    {
+      "type": "node",
+      "id": 3259510389,
+      "lat": 47.3962675,
+      "lon": 8.531759
+    },
+    {
+      "type": "node",
+      "id": 3259510390,
+      "lat": 47.3963026,
+      "lon": 8.5321655
+    },
+    {
+      "type": "node",
+      "id": 3259510391,
+      "lat": 47.3963209,
+      "lon": 8.5320392
+    },
+    {
+      "type": "node",
+      "id": 3259510392,
+      "lat": 47.3963377,
+      "lon": 8.5316127
+    },
+    {
+      "type": "node",
+      "id": 3259510393,
+      "lat": 47.396387,
+      "lon": 8.5317826
+    },
+    {
+      "type": "node",
+      "id": 3259510394,
+      "lat": 47.3964145,
+      "lon": 8.5317429
+    },
+    {
+      "type": "node",
+      "id": 3259510395,
+      "lat": 47.3964204,
+      "lon": 8.5317611
+    },
+    {
+      "type": "node",
+      "id": 3259510398,
+      "lat": 47.3965354,
+      "lon": 8.5314959
+    },
+    {
+      "type": "node",
+      "id": 3259510399,
+      "lat": 47.3965448,
+      "lon": 8.531448
+    },
+    {
+      "type": "node",
+      "id": 3259510400,
+      "lat": 47.3965552,
+      "lon": 8.5314849
+    },
+    {
+      "type": "node",
+      "id": 3259510401,
+      "lat": 47.3965636,
+      "lon": 8.5313192
+    },
+    {
+      "type": "node",
+      "id": 3259510402,
+      "lat": 47.3965814,
+      "lon": 8.5313235
+    },
+    {
+      "type": "node",
+      "id": 3259510403,
+      "lat": 47.3965913,
+      "lon": 8.5312659
+    },
+    {
+      "type": "node",
+      "id": 3259510405,
+      "lat": 47.3966106,
+      "lon": 8.5316266
+    },
+    {
+      "type": "node",
+      "id": 3259510406,
+      "lat": 47.3966155,
+      "lon": 8.5316438
+    },
+    {
+      "type": "node",
+      "id": 3259510407,
+      "lat": 47.3966187,
+      "lon": 8.5315232
+    },
+    {
+      "type": "node",
+      "id": 3259510408,
+      "lat": 47.3966219,
+      "lon": 8.5315059
+    },
+    {
+      "type": "node",
+      "id": 3259510409,
+      "lat": 47.3966248,
+      "lon": 8.5310457
+    },
+    {
+      "type": "node",
+      "id": 3259510410,
+      "lat": 47.3966307,
+      "lon": 8.5315983
+    },
+    {
+      "type": "node",
+      "id": 3259510411,
+      "lat": 47.3966378,
+      "lon": 8.5315524
+    },
+    {
+      "type": "node",
+      "id": 3259510412,
+      "lat": 47.396639,
+      "lon": 8.5309057
+    },
+    {
+      "type": "node",
+      "id": 3259510413,
+      "lat": 47.3966404,
+      "lon": 8.53092
+    },
+    {
+      "type": "node",
+      "id": 3259510414,
+      "lat": 47.3966407,
+      "lon": 8.531629
+    },
+    {
+      "type": "node",
+      "id": 3259510415,
+      "lat": 47.3966433,
+      "lon": 8.5315131
+    },
+    {
+      "type": "node",
+      "id": 3259510416,
+      "lat": 47.3966438,
+      "lon": 8.5309218
+    },
+    {
+      "type": "node",
+      "id": 3259510417,
+      "lat": 47.3966459,
+      "lon": 8.5308881
+    },
+    {
+      "type": "node",
+      "id": 3259510418,
+      "lat": 47.3966524,
+      "lon": 8.5315567
+    },
+    {
+      "type": "node",
+      "id": 3259510419,
+      "lat": 47.396654,
+      "lon": 8.5315452
+    },
+    {
+      "type": "node",
+      "id": 3259510420,
+      "lat": 47.3966578,
+      "lon": 8.5308787
+    },
+    {
+      "type": "node",
+      "id": 3259510421,
+      "lat": 47.3966633,
+      "lon": 8.5308854
+    },
+    {
+      "type": "node",
+      "id": 3259510422,
+      "lat": 47.396678,
+      "lon": 8.5312947
+    },
+    {
+      "type": "node",
+      "id": 3259510423,
+      "lat": 47.3967115,
+      "lon": 8.5310745
+    },
+    {
+      "type": "node",
+      "id": 3259510424,
+      "lat": 47.3967227,
+      "lon": 8.5309899
+    },
+    {
+      "type": "node",
+      "id": 3259510425,
+      "lat": 47.3967728,
+      "lon": 8.5308191
+    },
+    {
+      "type": "node",
+      "id": 3259510426,
+      "lat": 47.396796,
+      "lon": 8.5320547
+    },
+    {
+      "type": "node",
+      "id": 3259510427,
+      "lat": 47.3968008,
+      "lon": 8.5320225
+    },
+    {
+      "type": "node",
+      "id": 3259510428,
+      "lat": 47.396804,
+      "lon": 8.5309389
+    },
+    {
+      "type": "node",
+      "id": 3259510429,
+      "lat": 47.3968726,
+      "lon": 8.530754
+    },
+    {
+      "type": "node",
+      "id": 3259510430,
+      "lat": 47.3969173,
+      "lon": 8.5314683
+    },
+    {
+      "type": "node",
+      "id": 3259510431,
+      "lat": 47.3969473,
+      "lon": 8.532339
+    },
+    {
+      "type": "node",
+      "id": 3259510432,
+      "lat": 47.3969481,
+      "lon": 8.531257
+    },
+    {
+      "type": "node",
+      "id": 3259510433,
+      "lat": 47.3969572,
+      "lon": 8.53126
+    },
+    {
+      "type": "node",
+      "id": 3259510434,
+      "lat": 47.3969578,
+      "lon": 8.5307036
+    },
+    {
+      "type": "node",
+      "id": 3259510435,
+      "lat": 47.3969658,
+      "lon": 8.5312077
+    },
+    {
+      "type": "node",
+      "id": 3259510436,
+      "lat": 47.3969741,
+      "lon": 8.5321675
+    },
+    {
+      "type": "node",
+      "id": 3259510437,
+      "lat": 47.3969758,
+      "lon": 8.5323435
+    },
+    {
+      "type": "node",
+      "id": 3259510438,
+      "lat": 47.3969776,
+      "lon": 8.5323319
+    },
+    {
+      "type": "node",
+      "id": 3259510439,
+      "lat": 47.3969855,
+      "lon": 8.5321701
+    },
+    {
+      "type": "node",
+      "id": 3259510440,
+      "lat": 47.3969876,
+      "lon": 8.532149
+    },
+    {
+      "type": "node",
+      "id": 3259510441,
+      "lat": 47.3970184,
+      "lon": 8.5321918
+    },
+    {
+      "type": "node",
+      "id": 3259510442,
+      "lat": 47.3970204,
+      "lon": 8.5312241
+    },
+    {
+      "type": "node",
+      "id": 3259510443,
+      "lat": 47.3970212,
+      "lon": 8.5321617
+    },
+    {
+      "type": "node",
+      "id": 3259510444,
+      "lat": 47.3970285,
+      "lon": 8.5311726
+    },
+    {
+      "type": "node",
+      "id": 3259510445,
+      "lat": 47.3970295,
+      "lon": 8.5314436
+    },
+    {
+      "type": "node",
+      "id": 3259510446,
+      "lat": 47.3970326,
+      "lon": 8.5323487
+    },
+    {
+      "type": "node",
+      "id": 3259510447,
+      "lat": 47.397035,
+      "lon": 8.5314003
+    },
+    {
+      "type": "node",
+      "id": 3259510448,
+      "lat": 47.397037,
+      "lon": 8.5317531
+    },
+    {
+      "type": "node",
+      "id": 3259510449,
+      "lat": 47.3970467,
+      "lon": 8.5316929
+    },
+    {
+      "type": "node",
+      "id": 3259510450,
+      "lat": 47.397047,
+      "lon": 8.5322013
+    },
+    {
+      "type": "node",
+      "id": 3259510451,
+      "lat": 47.3970491,
+      "lon": 8.5321839
+    },
+    {
+      "type": "node",
+      "id": 3259510452,
+      "lat": 47.3970502,
+      "lon": 8.531316
+    },
+    {
+      "type": "node",
+      "id": 3259510453,
+      "lat": 47.3970513,
+      "lon": 8.5315129
+    },
+    {
+      "type": "node",
+      "id": 3259510454,
+      "lat": 47.3970532,
+      "lon": 8.5312951
+    },
+    {
+      "type": "node",
+      "id": 3259510455,
+      "lat": 47.3970581,
+      "lon": 8.5316966
+    },
+    {
+      "type": "node",
+      "id": 3259510456,
+      "lat": 47.3970583,
+      "lon": 8.531407
+    },
+    {
+      "type": "node",
+      "id": 3259510457,
+      "lat": 47.3970599,
+      "lon": 8.5315979
+    },
+    {
+      "type": "node",
+      "id": 3259510458,
+      "lat": 47.397061,
+      "lon": 8.5314554
+    },
+    {
+      "type": "node",
+      "id": 3259510459,
+      "lat": 47.3970671,
+      "lon": 8.5315494
+    },
+    {
+      "type": "node",
+      "id": 3259510460,
+      "lat": 47.3970679,
+      "lon": 8.5313473
+    },
+    {
+      "type": "node",
+      "id": 3259513761,
+      "lat": 47.3970699,
+      "lon": 8.5313018
+    },
+    {
+      "type": "node",
+      "id": 3259513762,
+      "lat": 47.3970731,
+      "lon": 8.5316021
+    },
+    {
+      "type": "node",
+      "id": 3259513763,
+      "lat": 47.3970796,
+      "lon": 8.5315536
+    },
+    {
+      "type": "node",
+      "id": 3259513764,
+      "lat": 47.3970842,
+      "lon": 8.5315235
+    },
+    {
+      "type": "node",
+      "id": 3259513765,
+      "lat": 47.3970866,
+      "lon": 8.531192
+    },
+    {
+      "type": "node",
+      "id": 3259513766,
+      "lat": 47.3970967,
+      "lon": 8.5320171
+    },
+    {
+      "type": "node",
+      "id": 3259513767,
+      "lat": 47.3971049,
+      "lon": 8.5319585
+    },
+    {
+      "type": "node",
+      "id": 3259513768,
+      "lat": 47.3971088,
+      "lon": 8.5322018
+    },
+    {
+      "type": "node",
+      "id": 3259513769,
+      "lat": 47.3971107,
+      "lon": 8.5322208
+    },
+    {
+      "type": "node",
+      "id": 3259513770,
+      "lat": 47.3971107,
+      "lon": 8.5323523
+    },
+    {
+      "type": "node",
+      "id": 3259513771,
+      "lat": 47.3971138,
+      "lon": 8.5322039
+    },
+    {
+      "type": "node",
+      "id": 3259513772,
+      "lat": 47.3971143,
+      "lon": 8.532339
+    },
+    {
+      "type": "node",
+      "id": 3259513773,
+      "lat": 47.3971192,
+      "lon": 8.5319622
+    },
+    {
+      "type": "node",
+      "id": 3259513774,
+      "lat": 47.397121,
+      "lon": 8.5321158
+    },
+    {
+      "type": "node",
+      "id": 3259513775,
+      "lat": 47.3971214,
+      "lon": 8.5318613
+    },
+    {
+      "type": "node",
+      "id": 3259513776,
+      "lat": 47.3971217,
+      "lon": 8.5317806
+    },
+    {
+      "type": "node",
+      "id": 3259513777,
+      "lat": 47.3971278,
+      "lon": 8.5318175
+    },
+    {
+      "type": "node",
+      "id": 3259513778,
+      "lat": 47.3971303,
+      "lon": 8.5317236
+    },
+    {
+      "type": "node",
+      "id": 3259513779,
+      "lat": 47.3971335,
+      "lon": 8.5318671
+    },
+    {
+      "type": "node",
+      "id": 3259513780,
+      "lat": 47.397141,
+      "lon": 8.5318202
+    },
+    {
+      "type": "node",
+      "id": 3259513781,
+      "lat": 47.3971436,
+      "lon": 8.5322546
+    },
+    {
+      "type": "node",
+      "id": 3259513782,
+      "lat": 47.3971452,
+      "lon": 8.5322335
+    },
+    {
+      "type": "node",
+      "id": 3259513783,
+      "lat": 47.3971456,
+      "lon": 8.5317284
+    },
+    {
+      "type": "node",
+      "id": 3259513784,
+      "lat": 47.397146,
+      "lon": 8.5317874
+    },
+    {
+      "type": "node",
+      "id": 3259513785,
+      "lat": 47.3971492,
+      "lon": 8.5315931
+    },
+    {
+      "type": "node",
+      "id": 3259513786,
+      "lat": 47.3971539,
+      "lon": 8.5321248
+    },
+    {
+      "type": "node",
+      "id": 3259513787,
+      "lat": 47.3971557,
+      "lon": 8.5315429
+    },
+    {
+      "type": "node",
+      "id": 3259513788,
+      "lat": 47.397161,
+      "lon": 8.5316204
+    },
+    {
+      "type": "node",
+      "id": 3259513789,
+      "lat": 47.3971616,
+      "lon": 8.5315442
+    },
+    {
+      "type": "node",
+      "id": 3259513790,
+      "lat": 47.3971643,
+      "lon": 8.5323549
+    },
+    {
+      "type": "node",
+      "id": 3259513791,
+      "lat": 47.397167,
+      "lon": 8.5320396
+    },
+    {
+      "type": "node",
+      "id": 3259513792,
+      "lat": 47.3971683,
+      "lon": 8.5314916
+    },
+    {
+      "type": "node",
+      "id": 3259513793,
+      "lat": 47.3971686,
+      "lon": 8.5323401
+    },
+    {
+      "type": "node",
+      "id": 3259513794,
+      "lat": 47.3971743,
+      "lon": 8.5322625
+    },
+    {
+      "type": "node",
+      "id": 3259513795,
+      "lat": 47.3971769,
+      "lon": 8.5322452
+    },
+    {
+      "type": "node",
+      "id": 3259513796,
+      "lat": 47.3971958,
+      "lon": 8.5320479
+    },
+    {
+      "type": "node",
+      "id": 3259513797,
+      "lat": 47.3972049,
+      "lon": 8.5319934
+    },
+    {
+      "type": "node",
+      "id": 3259513798,
+      "lat": 47.3972107,
+      "lon": 8.5318555
+    },
+    {
+      "type": "node",
+      "id": 3259513799,
+      "lat": 47.3972225,
+      "lon": 8.5318888
+    },
+    {
+      "type": "node",
+      "id": 3259513800,
+      "lat": 47.3972275,
+      "lon": 8.5317542
+    },
+    {
+      "type": "node",
+      "id": 3259513801,
+      "lat": 47.3972286,
+      "lon": 8.5323579
+    },
+    {
+      "type": "node",
+      "id": 3259513802,
+      "lat": 47.3972415,
+      "lon": 8.5322683
+    },
+    {
+      "type": "node",
+      "id": 3259513803,
+      "lat": 47.3972908,
+      "lon": 8.532074
+    },
+    {
+      "type": "node",
+      "id": 3259513804,
+      "lat": 47.3972949,
+      "lon": 8.532127
+    },
+    {
+      "type": "node",
+      "id": 3259513805,
+      "lat": 47.3972974,
+      "lon": 8.5320247
+    },
+    {
+      "type": "node",
+      "id": 3259513806,
+      "lat": 47.3973015,
+      "lon": 8.5320792
+    },
+    {
+      "type": "node",
+      "id": 3259513807,
+      "lat": 47.3973095,
+      "lon": 8.532295
+    },
+    {
+      "type": "node",
+      "id": 3259513808,
+      "lat": 47.3973166,
+      "lon": 8.5321345
+    },
+    {
+      "type": "node",
+      "id": 3259513809,
+      "lat": 47.3973287,
+      "lon": 8.5321725
+    },
+    {
+      "type": "node",
+      "id": 3259593987,
+      "lat": 47.3961545,
+      "lon": 8.5335251
+    },
+    {
+      "type": "node",
+      "id": 3259593988,
+      "lat": 47.3961548,
+      "lon": 8.5336588
+    },
+    {
+      "type": "node",
+      "id": 3259593991,
+      "lat": 47.3963547,
+      "lon": 8.5326712
+    },
+    {
+      "type": "node",
+      "id": 3259593992,
+      "lat": 47.3963855,
+      "lon": 8.5324623
+    },
+    {
+      "type": "node",
+      "id": 3634546942,
+      "lat": 47.3976211,
+      "lon": 8.5312936
+    },
+    {
+      "type": "node",
+      "id": 3634546943,
+      "lat": 47.397667,
+      "lon": 8.5312789
+    },
+    {
+      "type": "node",
+      "id": 3634546944,
+      "lat": 47.3976574,
+      "lon": 8.5311381
+    },
+    {
+      "type": "node",
+      "id": 3634546945,
+      "lat": 47.3975921,
+      "lon": 8.5311602
+    },
+    {
+      "type": "node",
+      "id": 3732456925,
+      "lat": 47.3965967,
+      "lon": 8.5322487
+    },
+    {
+      "type": "node",
+      "id": 3732456926,
+      "lat": 47.3964072,
+      "lon": 8.5321865
+    },
+    {
+      "type": "node",
+      "id": 3732456927,
+      "lat": 47.396431,
+      "lon": 8.5320284
+    },
+    {
+      "type": "node",
+      "id": 3732456928,
+      "lat": 47.3964558,
+      "lon": 8.5320366
+    },
+    {
+      "type": "node",
+      "id": 3732456929,
+      "lat": 47.3964728,
+      "lon": 8.5319239
+    },
+    {
+      "type": "node",
+      "id": 3732456930,
+      "lat": 47.3966163,
+      "lon": 8.5319711
+    },
+    {
+      "type": "node",
+      "id": 3732456931,
+      "lat": 47.3965986,
+      "lon": 8.5320892
+    },
+    {
+      "type": "node",
+      "id": 3732456932,
+      "lat": 47.3966197,
+      "lon": 8.5320961
+    },
+    {
+      "type": "node",
+      "id": 4088079985,
+      "lat": 47.3979038,
+      "lon": 8.5335532
+    },
+    {
+      "type": "node",
+      "id": 4088079986,
+      "lat": 47.3982501,
+      "lon": 8.5334253
+    },
+    {
+      "type": "node",
+      "id": 4088079987,
+      "lat": 47.398484,
+      "lon": 8.5333405
+    },
+    {
+      "type": "node",
+      "id": 4088079988,
+      "lat": 47.3984779,
+      "lon": 8.5333044
+    },
+    {
+      "type": "node",
+      "id": 4088083089,
+      "lat": 47.3978972,
+      "lon": 8.5335164
+    },
+    {
+      "type": "node",
+      "id": 4332724588,
+      "lat": 47.3982478,
+      "lon": 8.5322732
+    },
+    {
+      "type": "node",
+      "id": 4332724589,
+      "lat": 47.3981574,
+      "lon": 8.5322953
+    },
+    {
+      "type": "node",
+      "id": 4332724590,
+      "lat": 47.3981357,
+      "lon": 8.5321961
+    },
+    {
+      "type": "node",
+      "id": 4332724591,
+      "lat": 47.398142,
+      "lon": 8.5321824
+    },
+    {
+      "type": "node",
+      "id": 4332724592,
+      "lat": 47.3981419,
+      "lon": 8.532235
+    },
+    {
+      "type": "node",
+      "id": 4332724593,
+      "lat": 47.3981484,
+      "lon": 8.5322401
+    },
+    {
+      "type": "node",
+      "id": 4332724594,
+      "lat": 47.3982269,
+      "lon": 8.5321027
+    },
+    {
+      "type": "node",
+      "id": 4332724595,
+      "lat": 47.3982697,
+      "lon": 8.532087
+    },
+    {
+      "type": "node",
+      "id": 4332724596,
+      "lat": 47.398304,
+      "lon": 8.532227
+    },
+    {
+      "type": "node",
+      "id": 4332724597,
+      "lat": 47.3982457,
+      "lon": 8.5322565
+    },
+    {
+      "type": "node",
+      "id": 4332724598,
+      "lat": 47.3981189,
+      "lon": 8.5319391
+    },
+    {
+      "type": "node",
+      "id": 4332724599,
+      "lat": 47.3981313,
+      "lon": 8.5319353
+    },
+    {
+      "type": "node",
+      "id": 4332724600,
+      "lat": 47.3981187,
+      "lon": 8.5318589
+    },
+    {
+      "type": "node",
+      "id": 4332724601,
+      "lat": 47.3981106,
+      "lon": 8.5318575
+    },
+    {
+      "type": "node",
+      "id": 4332724602,
+      "lat": 47.3981112,
+      "lon": 8.5318124
+    },
+    {
+      "type": "node",
+      "id": 4332724603,
+      "lat": 47.3981049,
+      "lon": 8.5318143
+    },
+    {
+      "type": "node",
+      "id": 4332724604,
+      "lat": 47.3981764,
+      "lon": 8.5316047
+    },
+    {
+      "type": "node",
+      "id": 4332724605,
+      "lat": 47.3982185,
+      "lon": 8.5315911
+    },
+    {
+      "type": "node",
+      "id": 4332724606,
+      "lat": 47.3982298,
+      "lon": 8.5316637
+    },
+    {
+      "type": "node",
+      "id": 4332724607,
+      "lat": 47.398152,
+      "lon": 8.531692
+    },
+    {
+      "type": "node",
+      "id": 4332724608,
+      "lat": 47.3981432,
+      "lon": 8.531644
+    },
+    {
+      "type": "node",
+      "id": 4618677425,
+      "lat": 47.3975097,
+      "lon": 8.5329069
+    },
+    {
+      "type": "node",
+      "id": 4618677426,
+      "lat": 47.3974997,
+      "lon": 8.5331704
+    },
+    {
+      "type": "node",
+      "id": 4618677427,
+      "lat": 47.397394,
+      "lon": 8.5331744
+    },
+    {
+      "type": "node",
+      "id": 4618677428,
+      "lat": 47.3973972,
+      "lon": 8.5331609
+    },
+    {
+      "type": "node",
+      "id": 4618677429,
+      "lat": 47.3973624,
+      "lon": 8.5329973
+    },
+    {
+      "type": "node",
+      "id": 4618677430,
+      "lat": 47.3973766,
+      "lon": 8.5329723
+    },
+    {
+      "type": "node",
+      "id": 4618677431,
+      "lat": 47.3973578,
+      "lon": 8.5329243
+    },
+    {
+      "type": "node",
+      "id": 4618677432,
+      "lat": 47.3974045,
+      "lon": 8.5328445
+    },
+    {
+      "type": "node",
+      "id": 4618677433,
+      "lat": 47.3974906,
+      "lon": 8.5333881
+    },
+    {
+      "type": "node",
+      "id": 4618677434,
+      "lat": 47.3973542,
+      "lon": 8.5334442
+    },
+    {
+      "type": "node",
+      "id": 4618677435,
+      "lat": 47.3973418,
+      "lon": 8.5333746
+    },
+    {
+      "type": "node",
+      "id": 4618677436,
+      "lat": 47.397313,
+      "lon": 8.5333658
+    },
+    {
+      "type": "node",
+      "id": 4618677437,
+      "lat": 47.3973166,
+      "lon": 8.5332887
+    },
+    {
+      "type": "node",
+      "id": 4618677438,
+      "lat": 47.3973542,
+      "lon": 8.5332982
+    },
+    {
+      "type": "node",
+      "id": 4618677439,
+      "lat": 47.3973661,
+      "lon": 8.5332448
+    },
+    {
+      "type": "node",
+      "id": 4618677440,
+      "lat": 47.397378,
+      "lon": 8.5332481
+    },
+    {
+      "type": "node",
+      "id": 4618677441,
+      "lat": 47.3974484,
+      "lon": 8.533167
+    },
+    {
+      "type": "node",
+      "id": 4618677442,
+      "lat": 47.3974452,
+      "lon": 8.533146
+    },
+    {
+      "type": "node",
+      "id": 4618677443,
+      "lat": 47.3974246,
+      "lon": 8.5331501
+    },
+    {
+      "type": "node",
+      "id": 4618677444,
+      "lat": 47.3971487,
+      "lon": 8.5335274
+    },
+    {
+      "type": "node",
+      "id": 4618677445,
+      "lat": 47.3971148,
+      "lon": 8.5333699
+    },
+    {
+      "type": "node",
+      "id": 4618677446,
+      "lat": 47.3971345,
+      "lon": 8.5333597
+    },
+    {
+      "type": "node",
+      "id": 4618677447,
+      "lat": 47.3971949,
+      "lon": 8.5333719
+    },
+    {
+      "type": "node",
+      "id": 4618677448,
+      "lat": 47.3972086,
+      "lon": 8.5333212
+    },
+    {
+      "type": "node",
+      "id": 4618677449,
+      "lat": 47.3972764,
+      "lon": 8.5333367
+    },
+    {
+      "type": "node",
+      "id": 4618677450,
+      "lat": 47.3972878,
+      "lon": 8.5332826
+    },
+    {
+      "type": "node",
+      "id": 4618677451,
+      "lat": 47.3970354,
+      "lon": 8.5333628
+    },
+    {
+      "type": "node",
+      "id": 4618677452,
+      "lat": 47.3970569,
+      "lon": 8.5335287
+    },
+    {
+      "type": "node",
+      "id": 4618677453,
+      "lat": 47.3968953,
+      "lon": 8.5336516
+    },
+    {
+      "type": "node",
+      "id": 4618677454,
+      "lat": 47.3968724,
+      "lon": 8.5335859
+    },
+    {
+      "type": "node",
+      "id": 4618677455,
+      "lat": 47.3968821,
+      "lon": 8.5335697
+    },
+    {
+      "type": "node",
+      "id": 4618677456,
+      "lat": 47.3968711,
+      "lon": 8.5335482
+    },
+    {
+      "type": "node",
+      "id": 4618677457,
+      "lat": 47.3968504,
+      "lon": 8.53353
+    },
+    {
+      "type": "node",
+      "id": 4618677458,
+      "lat": 47.3968606,
+      "lon": 8.5334994
+    },
+    {
+      "type": "node",
+      "id": 4618677459,
+      "lat": 47.3968865,
+      "lon": 8.5335053
+    },
+    {
+      "type": "node",
+      "id": 4618677460,
+      "lat": 47.3969262,
+      "lon": 8.5333915
+    },
+    {
+      "type": "node",
+      "id": 4618677461,
+      "lat": 47.3969499,
+      "lon": 8.5333967
+    },
+    {
+      "type": "node",
+      "id": 4618677462,
+      "lat": 47.3969693,
+      "lon": 8.5333453
+    },
+    {
+      "type": "node",
+      "id": 4618677463,
+      "lat": 47.3967646,
+      "lon": 8.5337511
+    },
+    {
+      "type": "node",
+      "id": 4618677464,
+      "lat": 47.396662,
+      "lon": 8.5336093
+    },
+    {
+      "type": "node",
+      "id": 4618677465,
+      "lat": 47.3966955,
+      "lon": 8.5335586
+    },
+    {
+      "type": "node",
+      "id": 4618677466,
+      "lat": 47.3966862,
+      "lon": 8.5335176
+    },
+    {
+      "type": "node",
+      "id": 4618677467,
+      "lat": 47.3967333,
+      "lon": 8.5334799
+    },
+    {
+      "type": "node",
+      "id": 4618677468,
+      "lat": 47.3967474,
+      "lon": 8.5335345
+    },
+    {
+      "type": "node",
+      "id": 4618677469,
+      "lat": 47.3967866,
+      "lon": 8.5335209
+    },
+    {
+      "type": "node",
+      "id": 4618677470,
+      "lat": 47.396802,
+      "lon": 8.5335775
+    },
+    {
+      "type": "node",
+      "id": 4618677471,
+      "lat": 47.3968363,
+      "lon": 8.5335638
+    },
+    {
+      "type": "node",
+      "id": 4618677472,
+      "lat": 47.3965079,
+      "lon": 8.5333915
+    },
+    {
+      "type": "node",
+      "id": 4618677473,
+      "lat": 47.3965845,
+      "lon": 8.5332685
+    },
+    {
+      "type": "node",
+      "id": 4618677474,
+      "lat": 47.3965982,
+      "lon": 8.5332854
+    },
+    {
+      "type": "node",
+      "id": 4618677475,
+      "lat": 47.3966219,
+      "lon": 8.5333693
+    },
+    {
+      "type": "node",
+      "id": 4618677476,
+      "lat": 47.3966602,
+      "lon": 8.5333622
+    },
+    {
+      "type": "node",
+      "id": 4618677477,
+      "lat": 47.3966845,
+      "lon": 8.5334526
+    },
+    {
+      "type": "node",
+      "id": 4618677478,
+      "lat": 47.3967228,
+      "lon": 8.5334435
+    },
+    {
+      "type": "node",
+      "id": 4618677479,
+      "lat": 47.3967426,
+      "lon": 8.532583
+    },
+    {
+      "type": "node",
+      "id": 4618677480,
+      "lat": 47.3967206,
+      "lon": 8.5327241
+    },
+    {
+      "type": "node",
+      "id": 4618677481,
+      "lat": 47.396798,
+      "lon": 8.5327534
+    },
+    {
+      "type": "node",
+      "id": 4618677482,
+      "lat": 47.3968205,
+      "lon": 8.5328132
+    },
+    {
+      "type": "node",
+      "id": 4618677483,
+      "lat": 47.3968914,
+      "lon": 8.5327768
+    },
+    {
+      "type": "node",
+      "id": 4618677484,
+      "lat": 47.3969103,
+      "lon": 8.5328347
+    },
+    {
+      "type": "node",
+      "id": 4618677485,
+      "lat": 47.3969398,
+      "lon": 8.5328191
+    },
+    {
+      "type": "node",
+      "id": 4618677486,
+      "lat": 47.3969543,
+      "lon": 8.5326396
+    },
+    {
+      "type": "node",
+      "id": 4618677487,
+      "lat": 47.3970939,
+      "lon": 8.532676
+    },
+    {
+      "type": "node",
+      "id": 4618677488,
+      "lat": 47.3971371,
+      "lon": 8.5326994
+    },
+    {
+      "type": "node",
+      "id": 4618678389,
+      "lat": 47.3971181,
+      "lon": 8.5327677
+    },
+    {
+      "type": "node",
+      "id": 4618678390,
+      "lat": 47.3971005,
+      "lon": 8.5327775
+    },
+    {
+      "type": "node",
+      "id": 4618678391,
+      "lat": 47.3971212,
+      "lon": 8.5328614
+    },
+    {
+      "type": "node",
+      "id": 4618678392,
+      "lat": 47.3970899,
+      "lon": 8.532877
+    },
+    {
+      "type": "node",
+      "id": 4618678393,
+      "lat": 47.397071,
+      "lon": 8.5328197
+    },
+    {
+      "type": "node",
+      "id": 4618678394,
+      "lat": 47.3969966,
+      "lon": 8.5328549
+    },
+    {
+      "type": "node",
+      "id": 4618678395,
+      "lat": 47.3969781,
+      "lon": 8.5328002
+    },
+    {
+      "type": "node",
+      "id": 4618678396,
+      "lat": 47.3969165,
+      "lon": 8.5327241
+    },
+    {
+      "type": "node",
+      "id": 4618678397,
+      "lat": 47.396946,
+      "lon": 8.5327105
+    },
+    {
+      "type": "node",
+      "id": 4618678398,
+      "lat": 47.3973066,
+      "lon": 8.5327931
+    },
+    {
+      "type": "node",
+      "id": 4618678399,
+      "lat": 47.3972832,
+      "lon": 8.5329537
+    },
+    {
+      "type": "node",
+      "id": 4618678400,
+      "lat": 47.3972322,
+      "lon": 8.5329667
+    },
+    {
+      "type": "node",
+      "id": 4618678401,
+      "lat": 47.3972211,
+      "lon": 8.5329056
+    },
+    {
+      "type": "node",
+      "id": 4618678402,
+      "lat": 47.3971485,
+      "lon": 8.5329225
+    },
+    {
+      "type": "node",
+      "id": 4618678403,
+      "lat": 47.3971327,
+      "lon": 8.5328555
+    }
+  ]
+}
